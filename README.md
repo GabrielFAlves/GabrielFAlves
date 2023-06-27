@@ -7,10 +7,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFAlves&layout=compact&hide_border=true&title_color=00FA9A&text_color=00FA9A&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFAlves&bg_color=141414&color=02f76d&line=02f282&point=0dfd61&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-<div align="center">  
 
 <a href="https://www.linkedin.com/in/gabriel-firmamento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
