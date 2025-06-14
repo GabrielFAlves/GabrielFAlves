@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hi there! I'm <strong>Gabriel</strong>, a Full Stack Developer with strong expertise in <strong>Java (Spring Boot)</strong> on the backend and <strong>React</strong> on the frontend.<br>
-  I'm currently working on impactful public sector solutions, such as the digital vehicle registration project in collaboration with <strong>Detran</strong>. I work on everything from system integration to testing and CI/CD implementation.
+  I'm currently working as a <strong>Java Backend Developer</strong> building scalable microservices architectures using Spring Boot, Kafka, and EJB, with support for multi-tenant environments in large-scale enterprise systems.
 </p>
 
 <p align="left">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Tools & Frameworks: Spring Boot, React, Angular, Node.js, Express, NestJS, JUnit, Jasmine, MySQL, Firebase, Git, Jira, Bitbucket
+  💼 Tools & Frameworks: Spring Boot, React, Angular, Node.js, Express, NestJS, JUnit, Jasmine, MySQL, Firebase, Git, Jira, Bitbucket, Kafka, Jenkins, Kubernetes
 </p>
 
 <p align="left">
-  💡 I'm passionate about building scalable and secure applications, always focusing on performance and clean code. I follow <strong>SOLID principles</strong>, <strong>Clean Architecture</strong>, and have a strong DevOps culture.
+  💡 I'm passionate about building scalable, secure and efficient applications, always focusing on performance and clean code. I follow <strong>SOLID principles</strong>, <strong>Clean Architecture</strong>, and embrace a strong <strong>DevOps culture</strong>.
 </p>
 
 <p align="left">
