@@ -33,3 +33,12 @@
 <p>📧 Email: gabrielfirmamento3@gmail.com</p>
 <p>📱 Number/Whatsapp: (21) 97680-6547</p>
 <a align="center" href="https://www.linkedin.com/in/gabriel-firmamento/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank"></a>
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/GabrielFAlves?v=1787663557704"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
